@@ -302,6 +302,7 @@
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>
+    <None Include="Properties\PublishProfiles\File.pubxml" />
     <None Include="Properties\PublishProfiles\thiagotodo1 - FTP.pubxml" />
     <None Include="Properties\PublishProfiles\thiagotodo1 - Web Deploy.pubxml" />
   </ItemGroup>
